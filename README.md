@@ -2,6 +2,8 @@
 
 * Scrapbox の任意のページ内容を txt形式でダウンロードするGoogleChrome拡張です
 
+※Google Chromeの拡張です、Safariでは使えませんので注意してください。
+
 1.URLの所にchrome://extensions/を入力  
 
 2.デベロッパー モードをオンにしてパッケージ化されていない拡張機能を読み込む
